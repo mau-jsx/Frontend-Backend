@@ -19,7 +19,7 @@ Esta aplicación simple combina frontend y backend para mostrar un mensaje perso
 ## Estructura del proyecto
 
 ```
-tp1-frontend-backend/
+frontend-backend/
 ├── server.js         # Servidor backend con Express
 ├── package.json      # Configuración del proyecto raíz
 ├── client/           # Carpeta del frontend
@@ -35,7 +35,7 @@ tp1-frontend-backend/
 
 ```bash
 git clone https://github.com/mau-jsx/frontend-backend.git
-cd tp1-frontend-backend
+cd frontend-backend
 ```
 
 2. Instala las dependencias del servidor
